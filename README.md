@@ -3,6 +3,8 @@
 This organization aims to help Erlang and Elixir library authors to publish their libraries as packages to Hex.pm.
 Many library authors have no time or willingness to do this. Automation saves the day!
 
+[HexPub on Hex.pm](https://hex.pm/users/hexpub)
+
 Roadmap:
 
 * Create spec files for packages that we wish to have on Hex.pm but don't
